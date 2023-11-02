@@ -26,7 +26,7 @@ sidebar: false
 
 # Projects
 
-As soon as possible
+As soon as possible...
 
 # Competencies
 
