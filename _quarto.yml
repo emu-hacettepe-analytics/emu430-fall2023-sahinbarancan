@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Baran Can Sahin's Analyticsss Lab"
+  title: "Baran Can Sahin's Analytics Lab"
   navbar:
     search: true
     left:
@@ -22,11 +22,11 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://emu-hacettepe-analytics.github.io/emu430-fall2023-sahinbarancan/
+      - icon: instagram
+        href: https://www.instagram.com/sahinbarancan/
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/baran-can-sahin02/
 
   sidebar:
     - title: "Assignments"
@@ -45,9 +45,9 @@ format:
   html:
     toc: true
     toc-location: left
-    theme: 
-      light: pulse 
-      dark: superhero
+    
+    theme: superhero
+
     css: styles.css
 
 

@@ -5,26 +5,49 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2020 - ongoing.
+-   High School, Math and Science, Ankara Atatürk Anatolian High School, Turkey, 2016 - 2020
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  Cedar Point Amusement Park, Food Service Worker, 2023
 
-2.  Firm yyy, position yyy, year yyy
+2.  Earnado, Digital Marketing Specialist, Nov 2021 - May 2022
+
+3.  AIESEC Turkiye, IGV Consideration Team Leader, Oct 2021 - March 2022
+
+4.  Sahin Cousins Ltd, Purchasing Manager, May 2020 - Sep 2021
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+1.  Peak PV Solar Inc., Engineering Intern, 2023
 
 # Projects
 
+As soon as possible
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Autocad, Matlab, Minitab, Office Programs
+
+# Languages
+
+English ( Professional working competency )
+
+Spanish ( Beginner level )
+
+Turkish ( Native language )
 
 # Hobbies
+
+Swimming
+
+Watching Series
+
+Playing Chess
+
+Travelling and exploring new places and cultures
+
+All kind of sports
