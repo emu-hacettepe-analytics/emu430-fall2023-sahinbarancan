@@ -56,4 +56,6 @@ All kind of sports
 
 Click the link below to download my CV.
 
-[Baran Can Şahin CV](file:///D:/%C4%B0ndirilenler%20D/Baran%20Can%20%C5%9Eahin%20cv%20son.pdf)
+```         
+href="file:///D:/%C4%B0ndirilenler%20D/Baran%20Can%20%C5%9Eahin%20cv%20son.pdf" download>Download the pdf
+```
