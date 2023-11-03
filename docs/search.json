@@ -46,7 +46,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "My first assignment has three parts.\n\n\n\n\n\nThree Differences Between R and Python\n\nIn R, we use the &lt;- operator to assign values to variables. In Python, we use the = operator.\nR example: x &lt;- 5\nPyhton example: x = 5\nR uses a syntax where you call functions or methods by specifying the function name followed by parentheses.\nPython, on the other hand, uses dot notation with method calls.\nR example: result &lt;- mean(data)\nPython example: result = data.mean ()\nR uses 1-based indexing, meaning the first element of a list or vector is [1]. Python, on the other hand, uses 0-based indexing, so the first element is [0].\nR example: my_list [1]\nPython example: my_list [0]"
+    "text": "My first assignment has three parts..\n\n\n\n\n\nThree Differences Between R and Python\n\nIn R, we use the &lt;- operator to assign values to variables. In Python, we use the = operator.\nR example: x &lt;- 5\nPyhton example: x = 5\nR uses a syntax where you call functions or methods by specifying the function name followed by parentheses.\nPython, on the other hand, uses dot notation with method calls.\nR example: result &lt;- mean(data)\nPython example: result = data.mean ()\nR uses 1-based indexing, meaning the first element of a list or vector is [1]. Python, on the other hand, uses 0-based indexing, so the first element is [0].\nR example: my_list [1]\nPython example: my_list [0]"
   },
   {
     "objectID": "assignments.html",
