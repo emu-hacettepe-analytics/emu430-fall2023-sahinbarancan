@@ -58,6 +58,4 @@ Click the link below to download my CV.
 
 {{< a href="file:///D:/%C4%B0ndirilenler%20D/Baran%20Can%20%C5%9Eahin%20cv%20son.pdf" download>Download the pdf</a >}}
 
-```         
-href: file:///D:/%C4%B0ndirilenler%20D/Baran%20Can%20%C5%9Eahin%20cv%20son.pdf
-```
+[Baran Can Şahin CV Link](https://pdf.ac/3iIO4x)
