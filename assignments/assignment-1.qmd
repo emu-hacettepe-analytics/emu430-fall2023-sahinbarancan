@@ -2,11 +2,17 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
-
 My first assignment has three parts..
 
 ## (a)
+
+## **Yes, you can use Python with RStudio Team!**
+
+### Gagandeep Singh & Xu Fei
+
+[The Conference Talk that I summarized about. (Click for video)](https://www.rstudio.com/conference/2022/talks/develop-deploy-python-rstudio/)
+
+The majority of people are aware of Python's existence, but they don't know that it can be used in conjunction with R. However, the collaboration that comes with using them together proves beneficial in many aspects of life. For example, a bicycle rental company utilizes this combination to work with bicycle data. They start by accessing data such as locations, distances traveled, and availability status. The process begins with accessing data, followed by the need to transform that data, and ultimately creating and improving a model. The first half can be achieved with R, while the second half is possible with Python. R plays a role in development and integration processes. In addition, they use R Studio to manage and configure APIs and how to use them. They started to connect with R-based ETL and started building a Python model. Then they deployed them. Lastly, they finished with Shiny for Python Dashboard. This also shows us that programming languages with limited capabilities on their own can become much more useful and creative when used together.
 
 ## (b)
 
