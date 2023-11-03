@@ -3,6 +3,8 @@ title: "About Me"
 sidebar: false 
 ---
 
+![](images/pp.jpeg){width="241"}
+
 # Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2020 - ongoing.
