@@ -8,8 +8,32 @@ title: "Assignment 1"
 1 + 1
 ```
 
-My first assignment has two parts.
+My first assignment has three parts.
 
 ## (a)
 
 ## (b)
+
+Three Differences Between R and Python
+
+-   In R, we use the `<-` operator to assign values to variables. In Python, we use the `=` operator.
+
+    R example: x \<- 5
+
+    Pyhton example: x = 5
+
+-   R uses a syntax where you call functions or methods by specifying the function name followed by parentheses.
+
+    Python, on the other hand, uses dot notation with method calls.
+
+    R example: result \<- mean(data)
+
+    Python example: result = data.mean ()
+
+-   R uses 1-based indexing, meaning the first element of a list or vector is \[1\]. Python, on the other hand, uses 0-based indexing, so the first element is \[0\].
+
+    R example: my_list \[1\]
+
+    Python example: my_list \[0\]
+
+## (c)
