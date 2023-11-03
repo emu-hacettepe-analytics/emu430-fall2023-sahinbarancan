@@ -33,3 +33,16 @@ Three Differences Between R and Python
     Python example: my_list \[0\]
 
 ## (c)
+
+```{r}
+library(dslabs)
+data(na_example)
+print(na_example)
+head(na_example)
+is.na(na_example)
+goal <- na_example     #I was watching football match when I did it.
+goal[is.na(na_example)] <- 0 
+print(goal)
+number_of_na <- sum(goal == 0)
+print(number_of_na)
+```
